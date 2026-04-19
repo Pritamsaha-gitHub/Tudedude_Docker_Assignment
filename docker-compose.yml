@@ -15,4 +15,4 @@ services:
     ports:
       - "5000:5000"
     environment:
-      - MONGO_URI=mongodb+srv://spritam675:1234@cluster0.qo1o931.mongodb.net/?retryWrites=true&w=majority
+      - MONGO_URI=mongodb+srv://dummyUrl
